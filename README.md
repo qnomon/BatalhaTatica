@@ -3,10 +3,10 @@
 Professor Fabio Henrique Cabrini
 
 Alunos:
-- Eric Henrique de Oliveira Silva
-- Giovanna Requena
-- Guilherme de Oliveira Silva
-- Thuany Molina Gomes Marci
+- Eric Henrique de Oliveira Silva - RA 16809619233009
+- Giovanna Requena - RA 1680961923032
+- Guilherme de Oliveira Silva - RA 1680961923035
+- Thuany Molina Gomes Marci - RA 1680961923045
 
 
 [Link de Demonstração](https://youtu.be/0OOz4HuYrQE)

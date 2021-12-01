@@ -1,4 +1,4 @@
-# BatalhaTatica
+# Batalha Tática
 ## Tecnologias de Redes de Computadores-A-N-JOGOS DIGITAIS
 Alunos:
 - Eric Henrique de Oliveira Silva
